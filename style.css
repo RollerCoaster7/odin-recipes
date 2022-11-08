@@ -1,0 +1,30 @@
+.main {
+    background-color: beige;
+    text-align: center;
+}
+
+.header{
+    font-size: 28px;
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+    background-color: burlywood;
+    color: slateblue;
+}
+
+a {
+    border-style: groove;
+    border-color: lightblue;
+    margin: 50px, 50px, 50px, 50px;
+    background-color: slateblue;
+    color: white;
+    font-weight: bold;
+}
+
+.home-button{
+    font-size: 22px;
+}
+
+img{
+    height: auto;
+    width: 900px;
+    border-style: double;
+}
